@@ -49,6 +49,8 @@ python3 -m pip install -U wxPython<br>
 
 (~80min for Pi4 to compile wxPython, author's Pi4 gives a "flashing thermometer" warning so a fan is used)<br>
 
+<img src="4.jpg" width="320">
+
 (command "/opt/vc/bin/vcgencmd measure_temp" gives cpu temp)<br>
 
 python3 -m pip install pandas<br>
