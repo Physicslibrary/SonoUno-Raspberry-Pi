@@ -61,6 +61,14 @@ python3 sonoUno<br>
 
 ## Exploring how SonoUno works
 
+The sonoUnoTeam has made sonoUno easy to tinker with.<br>
+
+File "The use of sonification in REINFORCE" explains the design of sonoUno:<br>
+
+<img src="2.png" width="800">
+
+
+
 ## References
 
 https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
