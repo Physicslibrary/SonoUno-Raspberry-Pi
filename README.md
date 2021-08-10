@@ -67,7 +67,7 @@ cd sonoUno<br>
 
 python3 sonoUno<br>
 
-(some commands are "out of order" but that's what happen when one interactively, "pip3" or "apt-get" missing software until "python3 sonoUno" works.)<br>
+(commands may appear "out of order" but that's what happen when one interactively, "pip3" or "apt-get" missing software until "python3 sonoUno" works.)<br>
 
 ## Exploring how SonoUno works
 
