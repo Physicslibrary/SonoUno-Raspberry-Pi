@@ -47,7 +47,9 @@ sudo apt install libsdl2-mixer-2.0-0 libsdl2-image-2.0-0 libsdl2-2.0-0 libsdl-tt
 
 python3 -m pip install -U wxPython<br>
 
-(~80min for Pi4 to compile wxPython, the author's Pi4 give a temperature warning so a fan is used)<br>
+(~80min for Pi4 to compile wxPython, author's Pi4 gives a "flashing thermometer" warning so a fan is used)<br>
+
+(command "/opt/vc/bin/vcgencmd measure_temp" gives cpu temp)<br>
 
 python3 -m pip install pandas<br>
 
