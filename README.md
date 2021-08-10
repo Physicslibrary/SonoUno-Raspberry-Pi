@@ -8,6 +8,8 @@ The project is inspired by a BCC podcast about exploring the universe with sound
 
 https://www.bbc.co.uk/programmes/p09mg44c
 
+(Gemission data is from http://sion.frm.utn.edu.ar/sonoUno/index.php/galaxies/)<br>
+
 ## Hardware
 
 Raspberry Pi 4 Model B (tested)<br>
