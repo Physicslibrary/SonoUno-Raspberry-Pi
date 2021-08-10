@@ -10,7 +10,11 @@ https://www.bbc.co.uk/programmes/p09mg44c
 
 ## Hardware
 
-Tested on Raspberry Pi Raspberry Pi 4 Model B<br>
+Raspberry Pi 4 Model B (tested)<br>
+
+(one Raspberry Pi OS for all Pi models)<br>
+
+https://www.raspberrypi.org/products/
 
 ## Software
 
@@ -41,7 +45,7 @@ sudo apt install libsdl2-mixer-2.0-0 libsdl2-image-2.0-0 libsdl2-2.0-0 libsdl-tt
 
 python3 -m pip install -U wxPython<br>
 
-(~80min for Pi4 to compile wxPython)<br>
+(~80min for Pi4 to compile wxPython, the author's Pi4 give a temperature warning so a fan is used)<br>
 
 python3 -m pip install pandas<br>
 
@@ -57,17 +61,21 @@ cd sonoUno<br>
 
 python3 sonoUno<br>
 
-(some commands are "out of order" but that's what happen when one interactively, "pip3" or "apt-get" the missing software until "python3 sonoUno" works.)<br>
+(some commands are "out of order" but that's what happen when one interactively, "pip3" or "apt-get" missing software until "python3 sonoUno" works.)<br>
 
 ## Exploring how SonoUno works
 
 The sonoUnoTeam has made sonoUno easy to tinker with.<br>
 
-File "The use of sonification in REINFORCE" explains the design of sonoUno:<br>
+File "The use of sonification in REINFORCE" explains its design:<br>
 
 <img src="2.png" width="800">
 
+In directory ./sonoUno/sonoUno, each subdirectory has the corresponding module (eg. directory sound_module to "Sound Module").<br> 
 
+<img src="3.png" width="800">
+
+We will be exploring simple_sound.py in ./sound_module to learn how it generates sound from numbers.<br>
 
 ## References
 
@@ -81,7 +89,7 @@ https://reinforceeu.eu/
 
 https://reinforceeu.eu/events/webinars/how-help-scientists-gravitational-wave-noise-hunt
 
-A pdf file about SonoUno from YouTube webinar "How to help scientists in the Gravitational Wave noise hunt"<br>
+File "The use of sonification in REINFORCE" explains SonoUno from YouTube webinar "How to help scientists in the Gravitational Wave noise hunt"<br>
 
 https://reinforceeu.eu/sites/default/files/2020-09/The%20use%20of%20sonification%20in%20REINFORCE%20-%C2%A0Beatriz%20Garcia.pdf
 
