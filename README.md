@@ -8,11 +8,26 @@ The project is inspired by a BCC podcast about exploring the universe with sound
 
 https://www.bbc.co.uk/programmes/p09mg44c
 
+## Hardware
+
+Tested on Raspberry Pi Raspberry Pi 4 Model B<br>
+
+## Software
+
+Raspberry Pi OS with desktop<br>
+Release date: May 7th 2021<br>
+Kernel version: 5.10<br>
+Size: 1,180MB<br>
+
 ## Building SonoUno on a Raspberry Pi
 
 ## Exploring how SonoUno works
 
 ## References
+
+https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
+
+https://www.raspberrypi.org/software/operating-systems/
 
 https://www.bbc.co.uk/programmes/p09mg44c
 
