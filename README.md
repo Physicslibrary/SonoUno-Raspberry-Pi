@@ -20,7 +20,7 @@ https://reinforceeu.eu/
 
 https://reinforceeu.eu/events/webinars/how-help-scientists-gravitational-wave-noise-hunt
 
-Here is a pdf about SonoUno to accompany the YouTube webinar on "How to help scientists in the Gravitational Wave noise hunt"<br>
+A pdf file about SonoUno from YouTube webinar "How to help scientists in the Gravitational Wave noise hunt"<br>
 
 https://reinforceeu.eu/sites/default/files/2020-09/The%20use%20of%20sonification%20in%20REINFORCE%20-%C2%A0Beatriz%20Garcia.pdf
 
