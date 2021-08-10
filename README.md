@@ -14,7 +14,7 @@ https://www.bbc.co.uk/programmes/p09mg44c
 
 Raspberry Pi 4 Model B (tested)<br>
 
-(one Raspberry Pi OS for all Pi models)<br>
+(one Raspberry Pi OS for all Pi models so building sonoUno should work on any model)<br>
 
 https://www.raspberrypi.org/products/
 
@@ -106,3 +106,5 @@ https://github.com/sonoUnoTeam/sonoUno
 A November 2019 blog about heat and Pi 4<br>
 
 https://www.raspberrypi.org/blog/thermal-testing-raspberry-pi-4/
+
+Copyright (c) 2021 Hartwell Fong<br>
