@@ -87,13 +87,15 @@ https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
 
 https://www.raspberrypi.org/software/operating-systems/
 
+BBC Radio 4 Scientifically... podcast "The Blind Astronomer"<br>
+
 https://www.bbc.co.uk/programmes/p09mg44c
 
 https://reinforceeu.eu/
 
 https://reinforceeu.eu/events/webinars/how-help-scientists-gravitational-wave-noise-hunt
 
-File "The use of sonification in REINFORCE" explains SonoUno from YouTube webinar "How to help scientists in the Gravitational Wave noise hunt"<br>
+File "The use of sonification in REINFORCE" explains sonoUno from YouTube webinar "How to help scientists in the Gravitational Wave noise hunt"<br>
 
 https://reinforceeu.eu/sites/default/files/2020-09/The%20use%20of%20sonification%20in%20REINFORCE%20-%C2%A0Beatriz%20Garcia.pdf
 
@@ -101,4 +103,6 @@ http://sion.frm.utn.edu.ar/sonoUno/
 
 https://github.com/sonoUnoTeam/sonoUno
 
+A November 2019 blog about heat and Pi 4<br>
 
+https://www.raspberrypi.org/blog/thermal-testing-raspberry-pi-4/
