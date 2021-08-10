@@ -1,9 +1,16 @@
 # SonoUno-Raspberry-Pi
+
 Note about building and exploring how SonoUno works on a Raspberry Pi
+
+<img src="1.jpg" width="800">
 
 The project is inspired by a BCC podcast about exploring the universe with sound.<br>
 
 https://www.bbc.co.uk/programmes/p09mg44c
+
+## Building SonoUno on a Raspberry Pi
+
+## Exploring how SonoUno works
 
 ## References
 
