@@ -4,11 +4,11 @@ Note on building and exploring how SonoUno works on a Raspberry Pi
 
 <img src="1.jpg" width="800">
 
-The project is inspired by a BCC podcast about exploring the universe with sound.<br>
+The project is inspired by a BBC podcast about exploring the universe with sound.<br>
 
 https://www.bbc.co.uk/programmes/p09mg44c
 
-(Gemission data is from http://sion.frm.utn.edu.ar/sonoUno/index.php/galaxies/)<br>
+(Gemission data is from https://www.sonouno.org.ar/galaxies/)<br>
 
 ## Hardware
 
@@ -101,7 +101,7 @@ File "The use of sonification in REINFORCE" explains sonoUno from YouTube webina
 
 https://reinforceeu.eu/sites/default/files/2020-09/The%20use%20of%20sonification%20in%20REINFORCE%20-%C2%A0Beatriz%20Garcia.pdf
 
-http://sion.frm.utn.edu.ar/sonoUno/
+https://www.sonouno.org.ar/
 
 https://github.com/sonoUnoTeam/sonoUno
 
